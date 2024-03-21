@@ -37,7 +37,7 @@ const Nav = () => {
             width={40}
             alt="logo"
           />
-          <p className="text-cyan-100 text-xl p-1 ml-1.5">Streamable</p>
+          <p className="text-cyan-100 text-xl p-1 ml-1.5">Ngrim</p>
         </div>
       </Link>
       <div className="text-cyan-100 flex space-x-5 mr-6 cursor-pointer md:hidden">
