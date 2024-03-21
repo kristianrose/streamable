@@ -5,7 +5,7 @@ import Nav from "@components/Nav";
 import Footer from "@components/Footer";
 const montserrat = Montserrat({ subsets: ["latin"] });
 export const metadata: Metadata = {
-  title: "Streamble",
+  title: "Ngrim",
   description: "Watch Your Favourite Movies & Tv Shows",
 };
 
